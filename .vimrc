@@ -1,0 +1,1 @@
+/home/pjr/.vim/vimrc
